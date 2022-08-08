@@ -1,0 +1,6 @@
+[20-May-2020 02:14:40 UTC] Aq_Resize.process() error: $width parameter is required
+[20-May-2020 02:14:41 UTC] Aq_Resize.process() error: $width parameter is required
+[20-May-2020 02:14:50 UTC] Aq_Resize.process() error: $width parameter is required
+[20-May-2020 02:20:27 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[20-May-2020 02:27:03 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[06-Jun-2020 09:57:25 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query DELETE FROM `wp_options` WHERE `option_name` = '_transient_timeout_lp_rewrite_rules_hash' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, LP_Query->add_rewrite_rules, get_transient, delete_option
